@@ -1,0 +1,2 @@
+- No tiene sentido trabajar un problema con magnitudes de 10^14. Lo mejor trabajar con unidades de orden 1 (de menor que 1 tiene el mismo problema!)
+- Error máximo de la máquina (de arch 64 bytes): 1.1102230246251565e-16
